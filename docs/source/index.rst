@@ -6,13 +6,6 @@
 Documentação Tutorial Sphinx
 =============================
 
-Como fazer
-----------
-
-Esse tutorial visa ensinar como usa sphinx. Foi passado
-durante a monitoria de LP dia sei lá qual. Pra começar a usar,
-``sphinx-quickstart``.
-
 .. toctree::
    :maxdepth: 2
    :hidden:
@@ -20,12 +13,22 @@ durante a monitoria de LP dia sei lá qual. Pra começar a usar,
    pagina2
    modules
 
+
+Como fazer
+----------
+
+Esse tutorial visa ensinar como usar Sphinx. Foi passado
+durante a monitoria de Linguagens de Programação, dia 24/09.
+Pra começar a usar a biblioteca, use na poasta ``docs``:
+
+$ sphinx-quickstart
+
 Lista de presença
 ^^^^^^^^^^^^^^^^^
 
-* Monitor
+* Monitor Tokão
 * Calouros
-* Gustavo
+* Gustavo (chegou atrasado e saiu antes)
 
 
 
